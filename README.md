@@ -1,4 +1,6 @@
-# Shiny App Template
+# QuestR Shiny App
+
+The development of a Shiny app for R/Shiny skill assessments.
 
 ## Project structure
 
