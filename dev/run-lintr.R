@@ -18,4 +18,6 @@ result <- lintr::lint_dir(
 
 if (length(result) > 0) {
     print(result)
+} else {
+    cat(crayon::green$bold("No lint issues\n"))
 }
