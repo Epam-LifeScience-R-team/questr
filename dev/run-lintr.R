@@ -10,7 +10,6 @@ result <- lintr::lint_dir(
         # disable due to poor working with R6 classes
         cyclocomp_linter = NULL,
         # disable to avoid conflicts with styler
-        open_curly_linter = NULL,
         object_usage_linter = NULL
     ),
     exclusions = excludedDirs
