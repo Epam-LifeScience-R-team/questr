@@ -1,5 +1,9 @@
 # QuestR Shiny App
 
+<!-- badges: start -->
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+<!-- badges: end -->
+
 The development of a Shiny app for R/Shiny skill assessments.
 
 ## Project structure
