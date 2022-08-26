@@ -49,6 +49,11 @@ Create **.Renviron** file in the project directory and put there any secret valu
 PASSWORD1=***
 PASSWORD2=***
 ```
+### Run the app
+```{r}
+library(shiny)
+runApp(launch.browser = TRUE)
+```
 
 ### Run tests
 
