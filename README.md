@@ -55,8 +55,7 @@ PASSWORD2=***
 ```
 ### Run the app
 ```{r}
-library(shiny)
-runApp(launch.browser = TRUE)
+shiny::runApp(launch.browser = TRUE)
 ```
 
 ### Run tests
