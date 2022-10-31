@@ -1,6 +1,6 @@
-Title: Shiny App Template
-Description: Shiny App Template Description
-Authors@R: c(person("FirstName", "LastName", role = "aut", email = "first.last@novartis.com"))
+Title: QuestR Shiny App
+Description: a Shiny app for R/Shiny skill assessments
+Authors@R: c(person("FirstName", "LastName", role = "aut", email = "first.last@.com"))
 License: 
 Type: Shiny
-Version: 1.0.0
+Version: 0.0.0.9000

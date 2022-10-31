@@ -1,4 +1,10 @@
-# Shiny App Template
+# QuestR Shiny App
+
+<!-- badges: start -->
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+<!-- badges: end -->
+
+The development of a Shiny app for R/Shiny skill assessments.
 
 ## Project structure
 
@@ -46,6 +52,10 @@ Create **.Renviron** file in the project directory and put there any secret valu
 ```{r}
 PASSWORD1=***
 PASSWORD2=***
+```
+### Run the app
+```{r}
+shiny::runApp(launch.browser = TRUE)
 ```
 
 ### Run tests

@@ -1,4 +1,3 @@
 library(shiny)
-library(ggplot2)
 
-source("modules/linkedScatterModule.R")
+source("modules/initModule.R")
